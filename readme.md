@@ -7,4 +7,4 @@ You can reach me at [@Axodouble](https://twitter.com/axodouble) on Twitter, [axo
 I do play some games and I am interested in learning more on their mechanics, systems or anything related to it, be it modifications to the games code, addons, plugins or et cetera. 
 I have experience in `Node.JS`, `Java`, `C#`, `C++`, `Rust` & `PHP`.
 
-I am currently working as a software developer maintaining primarily DNS servers, though I also have experience in physical modding, creating custom FPV drones and custom Airsoft parts.
+I am currently working at 2 locations, a software developer maintaining primarily DNS servers & a software developer for UDarkRP, creating custom content such as specialized modifications and more; though I also have experience in physical modding, creating custom FPV drones and custom airsoft parts.
