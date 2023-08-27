@@ -1,6 +1,8 @@
 #### Software developer, nothing fancy.
 I love all things tech, practically only worked on it all my life.
 
+[![](https://github-readme-stats.vercel.app/api?username=Axodouble&show_icons=true&theme=radical)](https://github.com/Axodouble)
+
 I’m currently working on numerous projects and wish to further my knowledge in all fields I have any interest in.
 You can reach me at [@Axodouble](https://twitter.com/axodouble) on Twitter, [axodouble@axodouble.tech](mailto:axodouble@axodouble.tech) per email & [@axodouble](https://discord.com) on Discord.
 
