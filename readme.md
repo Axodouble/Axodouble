@@ -8,6 +8,5 @@ I do play some games and I am interested in learning more on their mechanics, sy
 I have experience in `Node.JS`, `Java`, `C#`, `C++`, `Rust`, `PHP` & `Python`.
 
 I am currently working at an unnamed IT Company maintaining active service for over ~80,000 personnel of our company.
-I am also currently in a position where I am working as a hoppy on my side project [unturned.guide](https://unturned.guide/), I also work on other things and I take [commissions](https://xdbl.dev/?l=0eSF3) for projects. 
 
 Feel free to join my [Discord](https://xdbl.dev/?l=0eSF3).
